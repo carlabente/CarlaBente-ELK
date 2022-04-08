@@ -4,7 +4,7 @@ Configuring an ELK Stack server in order to set up a cloud monitoring system.
 
 The files in this repository were used to configure the network depicted below.
 
-![image](Images/Project1_NetworkDiagram.png)
+![image](Images/ELKNetworkDiagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
